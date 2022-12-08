@@ -6,7 +6,7 @@
 - **telephone:** +375 (44) 585-26-11  
 - **Discord:**   Slavaklesh#8587  
 - **Telegram:**  @KLESH_97  
-- **E-mail:**    slava.kleshov@gmail.com
+- **E-mail:**    slava.kleshov@gmail.com  
 - [linkedIn](https://www.linkedin.com/in/slava-kleschov-b0bbb0259/)
 
 </details>
