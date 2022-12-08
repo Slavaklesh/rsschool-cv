@@ -1,3 +1,4 @@
+![image](/rsschool-cv1/my%20foto.jpg)
 # Viacheslav Kleschov
 ---
 <details><summary>Contact information:</summary>
