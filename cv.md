@@ -1,4 +1,4 @@
-![image](https://github.com/Slavaklesh/rsschool-cv1/blob/gh-pages/my%20foto.jpg?raw=true)
+![image](https://github.com/Slavaklesh/rsschool-cv/blob/gh-pages/my%20foto.jpg?raw=true)
 # Viacheslav Kleschov
 
 ## Contact information:
