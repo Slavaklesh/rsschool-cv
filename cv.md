@@ -1,4 +1,4 @@
-![image](/rsschool-cv1/my%20foto.jpg)
+![image](https://github.com/Slavaklesh/rsschool-cv1/blob/rsschool-cv-html/my%20foto.jpg)
 # Viacheslav Kleschov
 ---
 <details><summary>Contact information:</summary>
